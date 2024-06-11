@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiracZhu1998
+- 👋 Hi, I’m @YZ Zhu
 - 👀 I’m interested in single cell omics, development, and major events in evolutionary history.
 - 🌱 I’m currently learning ...
 
